@@ -25,7 +25,7 @@ To install and run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Olanetsoft/javascript-in-web3-demo.git
    ```
 
 2. Navigate to the project directory:
